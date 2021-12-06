@@ -174,7 +174,7 @@ function DHCP_WDS_Installation {
     } Catch {
 
             Write-Output ''
-            Write-Host "[!] Error instalando el rol DHCP" -ForegroundColor "read"
+            Write-Host "[!] Error instalando el rol DHCP" -ForegroundColor "Cyan"
             Write-Output ''
 
     }
@@ -186,13 +186,13 @@ function DHCP_WDS_Installation {
     } Catch {
 
             Write-Output ''
-            Write-Host "[!] Error instalando el rol WDS" -ForegroundColor "read"
+            Write-Host "[!] Error instalando el rol WDS" -ForegroundColor "Cyan"
             Write-Output ''
 
     }
 
         Write-Output ''
-        Write-Host "[!] Se va a reiniciar el equipo." -ForegroundColor "read"
+        Write-Host "[!] Se va a reiniciar el equipo." -ForegroundColor "Cyan"
         Write-Output ''
 
     Restart-Computer
