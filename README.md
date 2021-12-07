@@ -124,3 +124,23 @@ Ejecucion del script PowerShell
 <div align="center">
   <img src="img/autoWDS_10.png"><br>
 </div>
+
+<div align="center">
+  <h4>Iniciamos como administrador del dominio, y volvemos a importar el modulo</h4>
+</div>
+
+    Import-Module .\autoWDS
+    
+<div align="center">
+  <img src="img/autoWDS_1.png">
+</div>
+
+<div align="center">
+  <h4>Ejecutaremos el Intalador de DHCP y WDS.</h4>
+</div>
+
+    DHCP_WDS_Installation
+    
+<div align="center">
+  <img src="img/autoWDS_11.png">
+</div>
