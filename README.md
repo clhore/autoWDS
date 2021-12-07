@@ -144,3 +144,11 @@ Ejecucion del script PowerShell
 <div align="center">
   <img src="img/autoWDS_11.png">
 </div>
+
+<div align="center">
+  <h4>En este punto el servicio DHCP ya estaria configurado, por lo que solo quedaria configurar el servidor WDS.</h4>
+</div>
+    
+<div align="center">
+  <img src="img/autoWDS_12.png"><br>
+</div>
