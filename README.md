@@ -87,6 +87,9 @@ Ejecucion del script PowerShell
 <div align="center">
   <img src="img/autoWDS_4.png">
 </div>
+<div align="center">
+  <img src="img/autoWDS_5.png">
+</div>
 
 <div align="center">
   <h4>Una vez se ha reiniciado importamos el modulo otravez.</h4>
@@ -95,7 +98,7 @@ Ejecucion del script PowerShell
     Import-Module .\autoWDS
     
 <div align="center">
-  <img src="img/autoWDS_5.png">
+  <img src="img/autoWDS_6.png">
 </div>
 
 <div align="center">
