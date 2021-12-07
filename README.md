@@ -52,10 +52,10 @@ Ejecucion del script PowerShell
   <h4>Una vez ya hemos configurado todos los parametros necesarios, procedemos ha ejecutar PowerShell en Windows Server 2016 y importamos el modulo.</h4>
 </div>
 
-    Import-Module .\autoDC
+    Import-Module .\autoWDS
     
 <div align="center">
-  <img src="img/autoDC_1.png">
+  <img src="img/autoWDS_1.png">
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@ Ejecucion del script PowerShell
     helpPanel
     
 <div align="center">
-  <img src="img/autoDC_2.png">
+  <img src="img/autoWDS_2.png">
 </div>
 
 <div align="center">
@@ -75,7 +75,7 @@ Ejecucion del script PowerShell
     redConfig
     
 <div align="center">
-  <img src="img/autoDC_3.png">
+  <img src="img/autoWDS_3.png">
 </div>
 
 <div align="center">
@@ -85,17 +85,17 @@ Ejecucion del script PowerShell
     namePc_and_domainServicesInstallation_1
     
 <div align="center">
-  <img src="img/autoDC_4.png">
+  <img src="img/autoWDS_4.png">
 </div>
 
 <div align="center">
   <h4>Una vez se ha reiniciado importamos el modulo otravez.</h4>
 </div>
 
-    Import-Module .\autoDC
+    Import-Module .\autoWDS
     
 <div align="center">
-  <img src="img/autoDC_5.png">
+  <img src="img/autoWDS_5.png">
 </div>
 
 <div align="center">
