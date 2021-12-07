@@ -27,8 +27,8 @@ $Global:ifIndex = 2 # Revisalo con el comando Get-NetAdapter
 $Global:ipParams = @{
     InterfaceIndex = $ifIndex
     IPAddress = "192.168.1.170" # Ip fija a asignar al equipo
-    DefaultGateway = "192.168.1.1"
-    PrefixLength = 24
+    DefaultGateway = "192.168.1.1" # Puerta de enlace
+    PrefixLength = 24 # Macara
     AddressFamily = "IPv4"
 }
 $Global:dnsParams = @{
