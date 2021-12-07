@@ -98,7 +98,7 @@ Ejecucion del script PowerShell
     Import-Module .\autoWDS
     
 <div align="center">
-  <img src="img/autoWDS_6.png">
+  <img src="img/autoWDS_1.png">
 </div>
 
 <div align="center">
