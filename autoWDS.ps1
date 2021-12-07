@@ -22,12 +22,11 @@ function banner {
 
 # Configura los parametros de la interfaz
 $Global:ifIndex = 2 # Revisalo con el comando Get-NetAdapter
-$Global:ipPC = "192.168.1.170" # Ip fija a asignar al equipo
 
 # Configuracion de la red
 $Global:ipParams = @{
     InterfaceIndex = $ifIndex
-    IPAddress = $ipPC
+    IPAddress = "192.168.1.170" # Ip fija a asignar al equipo
     DefaultGateway = "192.168.1.1"
     PrefixLength = 24
     AddressFamily = "IPv4"
