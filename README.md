@@ -108,9 +108,9 @@ Ejecucion del script PowerShell
     namePc_and_domainServicesInstallation_2
     
 <div align="center">
-  <img src="img/autoDC_6.png"><br>
-  <img src="img/autoDC_7.png"><br>
-  <img src="img/autoDC_8.png"><br>
+  <img src="img/autoWDS_6.png"><br>
+  <img src="img/autoWDS_7.png"><br>
+  <img src="img/autoWDS_8.png"><br>
 </div>
 
 <div align="center">
@@ -118,7 +118,7 @@ Ejecucion del script PowerShell
 </div>
   
 <div align="center">
-  <img src="img/autoDC_9.png"><br>
+  <img src="img/autoWDS_9.png"><br>
 </div>
 
 <div align="center">
@@ -126,5 +126,5 @@ Ejecucion del script PowerShell
 </div>
     
 <div align="center">
-  <img src="img/autoDC_10.png"><br>
+  <img src="img/autoWDS_10.png"><br>
 </div>
