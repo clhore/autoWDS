@@ -152,3 +152,13 @@ Ejecucion del script PowerShell
 <div align="center">
   <img src="img/autoWDS_12.png"><br>
 </div>
+
+<div align="center">
+  <h4>En este punto podemos configurar el servidor WDS de forma manual o haciendo uso del script.</h4>
+</div>
+    
+    configWDS
+    
+<div align="center">
+  <img src="img/autoWDS_13.png"><br>
+</div>
