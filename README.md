@@ -155,7 +155,7 @@ Ejecucion del script PowerShell
 
 <div align="center">
   <h4>En este punto podemos configurar el servidor WDS de forma manual o haciendo uso del script.</h4>
-  <h4>Si queremos configurarlo mediante el script deveremos vover a importar el modulo.</h4>
+  <h4>Si queremos configurarlo mediante el script deveremos volver a importar el modulo.</h4>
 </div>
 
 
@@ -173,4 +173,8 @@ Ejecucion del script PowerShell
     
 <div align="center">
   <img src="img/autoWDS_13.png"><br>
+</div>
+
+<div align="center">
+  <img src="img/autoWDS_14.png"><br>
 </div>
