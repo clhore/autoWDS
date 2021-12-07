@@ -34,27 +34,17 @@ CONFIGURACION
 <div align="center">
   <img src="img/conf/userDomain.png">
 </div>
-<h4>USUARIOS Y GRUPOS</h4>
-<p>En este caso no es obligatorio rellenarlo. Y aque la creacion de grupos y usuarios desde el script de powershell no es obligatoria.</p>
+
+<h4>DHCP</h4>
+<p>Debemos definir en el scriptlos siguientes parametros</p>
 <ul>
-    <li>Usuarios:</li>
-    <dl>
-      <dt>ADUsers</dt>
-      <dd>Nombre del usuario que se usara para iniciar sesion en el sistema.</dd>
-      <dt>ADPasswords</dt>
-      <dd>Contraseña de la cuenta de usuario.<dd>
-      <dt>ADUserNames</dt>
-      <dd>Nombre completo del usuario. Solo se puede poner el nombre y un apellido si pones dos apellidos, el 2º apellido no se usara.</dd>
-    </dl>
-    <li>Grupos:</li>
-    <dl>
-      <dt>ADGroups</dt>
-      <dd>Nombre del grupo.</dd>
-    </dl>
+    <li>namePc</li>
+    <li>domainName</li>
 </ul> 
 <div align="center">
-  <img src="img/conf/userGrup.png">
+  <img src="img/conf/dhcp.png">
 </div>
+
 
 Ejecucion del script PowerShell
 ======
