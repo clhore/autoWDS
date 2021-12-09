@@ -182,6 +182,8 @@ function DHCP_WDS_Installation {
             Write-Output ''
 
         Add-DhcpServerv4Scope @dhcpParams
+	
+	Set-DhcpServerv4OptionValue -DNSServer $ipParams.IPAddress -Router $ipParams.DefaultGateway
 
             Start-Sleep -Seconds 2
 
